@@ -1,7 +1,6 @@
-<h1 align="left">Hi 👋, I'm Alexander Olowolaju</h1>
-
+<h1 align="left">Wagwan friend &nbsp;🥷🏽 &nbsp;I'm Alexander</p></h1>
 <p align="left">
-I am a Software Engineering student at Cyprus International University, focused on system-based software engineering. I possess foundational experience in frontend web development and am actively building expertise in backend systems to develop a well-rounded and scalable approach to software engineering.
+I am a Software Engineering student at Cyprus International University, focused on system-based engineering. I have foundational knowledge in frontend web development and currently learning backend systems to develop a well-rounded and scalable approach to Software Engineering.
 </p>
 
 ---
@@ -17,13 +16,13 @@ I am a Software Engineering student at Cyprus International University, focused 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/honoredcodes" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://linkedin.com/in/honoredcodes" target="_blank" style="text-decoration: none; color: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.threads.net/@honoredcodes" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://www.threads.net/@honoredcodes" target="_blank" style="text-decoration: none; color: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" height="30" width="40" />
     </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/honoredcodes" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://instagram.com/honoredcodes" target="_blank" style="text-decoration: none; color: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@honoredcodes" target="_blank" style="text-decoration: none; color: inherit;">
