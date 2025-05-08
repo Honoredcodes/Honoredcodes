@@ -25,8 +25,8 @@ I am a Software Engineering student at Cyprus International University, focused 
   <a href="https://instagram.com/honoredcodes" target="_blank" style="text-decoration: none; color: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@honoredcodes" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  <a href="mailto:honoredcodes@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://svgl.app/library/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
