@@ -75,9 +75,15 @@ I am a Software Engineering student at Cyprus International University, focused 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=honoredcodes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=honoredcodes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=honoredcodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=honoredcodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+---
+
+###
+
+<a href = "https://buymeacoffee.com/honoredcodes">
+<p><img height ="40px" width = "auto" src = "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"/></p>
+</a>
