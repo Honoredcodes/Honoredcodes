@@ -43,7 +43,7 @@ I am a Software Engineering student at Cyprus International University, focused 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 </p>
 
-#### 🔹 Web Development
+#### 🔹 Frontend Web Development
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,6 +81,3 @@ I am a Software Engineering student at Cyprus International University, focused 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=honoredcodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
-
