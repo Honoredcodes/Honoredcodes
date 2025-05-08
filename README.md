@@ -17,10 +17,10 @@ I am a Software Engineering student at Cyprus International University, focused 
 
 <p align="left">
   <a href="https://linkedin.com/in/honoredcodes" target="_blank" style="text-decoration: none; color: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://svgl.app/library/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.threads.net/@honoredcodes" target="_blank" style="text-decoration: none; color: none;">
-    <img src="https://svgl.app/library/threads_dark.svg" height="30" width="40" />
+    <img src="https://svgl.app/library/threads.svg" height="30" width="40" />
     </a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/honoredcodes" target="_blank" style="text-decoration: none; color: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
