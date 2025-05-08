@@ -65,7 +65,7 @@ I am a Software Engineering student at Cyprus International University, focused 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://svgl.app/library/github_dark.svg" alt="GitHub" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://img.icons8.com/?size=512&id=63777&format=png" alt="GitHub" width="40" height="40" style="margin-right: 15px;" />
 </p>
 
 ---
